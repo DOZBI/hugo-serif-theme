@@ -12,19 +12,19 @@ name = "Acceuil "
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Contact"
+name = "Contacts"
 url = "/contact/"
 weight = 4
 [[menu.main]]
-name = "About"
+name = "À propos de nous"
 url = "/about/"
 weight = 3
 [[menu.main]]
-name = "Team"
+name = ""
 url = "/team/"
 weight = 2
 [[menu.main]]
-name = "Services"
+name = "Nos services"
 url = "/services/"
 weight = 1
 [module.hugoVersion]
