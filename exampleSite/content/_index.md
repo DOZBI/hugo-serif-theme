@@ -2,7 +2,7 @@
 title: www.elair.cg
 meta_title: 'Service digital '
 description: 'Elair est une entreprise de service basé sur le digital '
-intro_image: images/illustrations/pointing.svg
+intro_image: ''
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
