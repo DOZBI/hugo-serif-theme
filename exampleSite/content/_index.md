@@ -1,12 +1,12 @@
 ---
-title: Homepage
-meta_title: Hugo Serif Theme
-description: Serif is a modern business theme for Hugo.
+title: www.elair.cg
+meta_title: 'Service digital '
+description: 'Elair est une entreprise de service basé sur le digital '
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# Elair sercice Congo 
+# Elair sercices 
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated. 
+> ##### Nous vous accompagnons dans tous vos projets professionnels.
